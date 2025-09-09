@@ -1,1 +1,3 @@
 # 2025-09-09-git
+
+- `log`: shows you the history
